@@ -1,0 +1,67 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(71, 71, 133);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 3px;
+    border-radius: 5px;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+    padding: 10px;
+}
+
+h3{
+    color: aquamarine;
+    text-align: center;
+    padding: 10px;
+}
+
+#description{
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+p{
+    color: black;
+    text-align: left;
+}
+
+input{
+    background-color: white;
+
+}
+
+textarea{
+    background-color: white;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118,118,118), rgb(133,133,133));
+}
+
+form{
+    padding: 20;
+    color: white;
+    padding: 5px;
+    background-color: green;
+    border: 3px lightgray;
+    border-radius: 5px;
+}
+
+button{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+}
